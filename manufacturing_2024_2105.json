@@ -1,0 +1,122 @@
+[
+    {
+        "DATE TIMESTAMP": "2024-01-21T10:00:00+0018",
+        "E1": {
+            "torque": 123,
+            "temperature": 111,
+            "power": 475,
+            "rpm": 3600,
+            "status": "Functioning"
+        },
+        "E2": {
+            "torque": 92,
+            "temperature": 73,
+            "power": 708,
+            "rpm": 3200,
+            "status": "Functioning"
+        },
+        "E3": {
+            "torque": 150,
+            "temperature": 130,
+            "power": 255,
+            "rpm": 2200,
+            "status": "Stopped"
+        }
+    },
+    {
+        "DATE TIMESTAMP": "2024-01-21T11:00:00+0018",
+        "E1": {
+            "torque": 124,
+            "temperature": 112,
+            "power": 475,
+            "rpm": 3650,
+            "status": "Functioning"
+        },
+        "E2": {
+            "torque": 92,
+            "temperature": 74,
+            "power": 705,
+            "rpm": 3150,
+            "status": "Functioning"
+        },
+        "E3": {
+            "torque": 152,
+            "temperature": 132,
+            "power": 255,
+            "rpm": 2300,
+            "status": "Functioning"
+        }
+    },
+    {
+        "DATE TIMESTAMP": "2024-01-21T12:00:00+0018",
+        "E1": {
+            "torque": 124.5,
+            "temperature": 113,
+            "power": 468,
+            "rpm": 3700,
+            "status": "Functioning"
+        },
+        "E2": {
+            "torque": 91.5,
+            "temperature": 73,
+            "power": 702,
+            "rpm": 3150,
+            "status": "Functioning"
+        },
+        "E3": {
+            "torque": 152,
+            "temperature": 132,
+            "power": 255,
+            "rpm": 2300,
+            "status": "Functioning"
+        }
+    },
+    {
+        "DATE TIMESTAMP": "2024-01-21T13:00:00+0018",
+        "E1": {
+            "torque": 124.80,
+            "temperature": 115,
+            "power": 475,
+            "rpm": 3750,
+            "status": "Functioning"
+        },
+        "E2": {
+            "torque": 90,
+            "temperature": 71,
+            "power": 700,
+            "rpm": 3080,
+            "status": "Functioning"
+        },
+        "E3": {
+            "torque": 155,
+            "temperature": 134,
+            "power": 256,
+            "rpm": 2350,
+            "status": "Functioning"
+        }
+    },
+    {
+        "DATE TIMESTAMP": "2024-01-21T14:00:00+0018",
+        "E1": {
+            "torque": 125,
+            "temperature": 132,
+            "power": 479,
+            "rpm": 3780,
+            "status": "Functioning"
+        },
+        "E2": {
+            "torque": 90,
+            "temperature": 71,
+            "power": 699,
+            "rpm": 3000,
+            "status": "Functioning"
+        },
+        "E3": {
+            "torque": 155,
+            "temperature": 135,
+            "power": 255,
+            "rpm": 2300,
+            "status": "Functioning"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "DATE TIMESTAMP": "2024-06-11T18:00:00+0018",
+    "E1": {
+        "torque": 122.95,
+        "temperature": 110.85,
+        "power": 483.73,
+        "rpm": 3528,
+        "status": "Functioning"
+    },
+    "E2": {
+        "torque": 120,
+        "temperature": 105,
+        "power": 500,
+        "rpm": 3400,
+        "status": "Functioning"
+    },
+    "E3": {
+        "torque": 130,
+        "temperature": 115,
+        "power": 470,
+        "rpm": 3400,
+        "status": "Functioning"
+    }
+}
